@@ -1,0 +1,17 @@
+baseURL = "http://anhtran.dev/"
+languageCode = "en-us"
+title = "CatCanCode"
+theme = "novela"
+
+paginate = 6
+
+[social]
+twitter= "#"
+github= "#"
+linkedin= "#"
+instagram = "#"
+dribbble = "#"
+youtube = "#"
+
+[taxonomies]
+author = "authors"
